@@ -1166,13 +1166,13 @@ resumeautorotation(forcehotspot);
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallerypicture_title0" caption="gallerypicture_caption0" value="Interior_kitdata/graphics/gallery/_0_9_copy_2.jpg"/>
-		<item name="item_2" title="gallerypicture_title1" caption="gallerypicture_caption1" value="Interior_kitdata/graphics/gallery/_0_6_copy_2.jpg"/>
-		<item name="item_3" title="gallerypicture_title2" caption="gallerypicture_caption2" value="Interior_kitdata/graphics/gallery/_0_5_copy_2.jpg"/>
-		<item name="item_4" title="gallerypicture_title3" caption="gallerypicture_caption3" value="Interior_kitdata/graphics/gallery/_0_4_copy_2.jpg"/>
-		<item name="item_5" title="gallerypicture_title4" caption="gallerypicture_caption4" value="Interior_kitdata/graphics/gallery/_0_3_copy_2.jpg"/>
-		<item name="item_6" title="gallerypicture_title5" caption="gallerypicture_caption5" value="Interior_kitdata/graphics/gallery/_0_2_copy_2.jpg"/>
-		<item name="item_7" title="gallerypicture_title6" caption="gallerypicture_caption6" value="Interior_kitdata/graphics/gallery/_0_copy_2.jpg"/>
+		<item name="item_1" title="gallerypicture_title6" caption="gallerypicture_caption6" value="Interior_kitdata/graphics/gallery/a__1_.jpg"/>
+		<item name="item_2" title="gallerypicture_title1" caption="gallerypicture_caption1" value="Interior_kitdata/graphics/gallery/a__7_.jpg"/>
+		<item name="item_3" title="gallerypicture_title2" caption="gallerypicture_caption2" value="Interior_kitdata/graphics/gallery/a__2_.jpg"/>
+		<item name="item_4" title="gallerypicture_title3" caption="gallerypicture_caption3" value="Interior_kitdata/graphics/gallery/a__3_.jpg"/>
+		<item name="item_5" title="gallerypicture_title4" caption="gallerypicture_caption4" value="Interior_kitdata/graphics/gallery/a__4_.jpg"/>
+		<item name="item_6" title="gallerypicture_title5" caption="gallerypicture_caption5" value="Interior_kitdata/graphics/gallery/a__5_.jpg"/>
+		<item name="item_7" title="gallerypicture_title6" caption="gallerypicture_caption6" value="Interior_kitdata/graphics/gallery/a__6_.jpg"/>
 	</internaldata>
 </ptplugin>
 
